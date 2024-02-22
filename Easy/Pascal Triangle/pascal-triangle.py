@@ -3,8 +3,8 @@
 #User function Template for python3
 class Solution:
 
-	def nthRowOfPascalTriangle(self,n):
-	    res=[[1]]
+    def nthRowOfPascalTriangle(self,n):
+        res=[[1]]
         for i in range(n):
             arr=[0]*(i+1)
             arr[0]=arr[i]=1
@@ -13,6 +13,9 @@ class Solution:
                 arr[j]=arr[i-j]=(preArr[j]+preArr[j-1])%(10**9+7)
             res.append(arr)
         return res[n]
+
+
+
 
 
 #{ 
