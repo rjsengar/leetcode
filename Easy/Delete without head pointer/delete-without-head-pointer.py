@@ -24,6 +24,9 @@ class Solution:
 
 
 
+
+
+
 #{ 
  # Driver Code Starts
 #Initial Template for Python 3
@@ -94,7 +97,7 @@ if __name__ == '__main__':
         for x in nodes:
             a.append(x)
         del_elem = int(input())
-        to_delete=a.getNode(del_elem)
-        Solution().deleteNode(to_delete)
+        del_node=a.getNode(del_elem)
+        Solution().deleteNode(del_node)
         a.printList()
 # } Driver Code Ends
