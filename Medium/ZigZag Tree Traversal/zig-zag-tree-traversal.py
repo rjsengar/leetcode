@@ -13,10 +13,10 @@ class Solution:
     def zigZagTraversal(self, root):
         q=[]
         a=[]
-        c=1
+        c=0
         if root:
-            q.append(root)
-        while(len(q)):
+            q=[root]
+        while(q):
             l=len(q)
             t=[]
             while(l>0):
@@ -28,17 +28,13 @@ class Solution:
                 if n.right:
                     q.append(n.right)
                 l-=1
-            if c%2==0:
-                for i in t[::-1]:
-                    a.append(i)
-            else:
-                for i in t:
-                    a.append(i)
+            if c%2!=0:
+                t=t[::-1]
+            for i in t:
+                a.append(i)
             c+=1
         return a
-
-
-
+                
 
 
 #{ 
