@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/rjsengar/leetcode/tree/master/0072-edit-distance) |
 | [0344-reverse-string](https://github.com/rjsengar/leetcode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/rjsengar/leetcode/tree/master/0409-longest-palindrome) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/rjsengar/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -29,3 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1044-find-common-characters](https://github.com/rjsengar/leetcode/tree/master/1044-find-common-characters) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/rjsengar/leetcode/tree/master/0072-edit-distance) |
