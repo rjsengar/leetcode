@@ -1,16 +1,8 @@
 class Solution:
     def isNStraightHand(self, hand: List[int], groupSize: int) -> bool:
-        d={}
         hand.sort()
-        for i in hand:
-            if i not in d:
-                d[i]=1
-            else:
-                d[i]+=1
         if len(hand)%groupSize!=0:
             return False
-        d=len(hand)//groupSize
-        l=[]
         l=[[]]
         p=0
         for i in range(len(hand)):
