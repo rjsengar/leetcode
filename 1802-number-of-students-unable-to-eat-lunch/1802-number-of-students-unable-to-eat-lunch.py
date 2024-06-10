@@ -8,7 +8,7 @@ class Solution:
                 sandwiches=sandwiches[1:]
             else:
                 a=students[0]
-                students.remove(a)
+                students.pop(0)
                 students.append(a)
                 c+=1
             if c==3*l:
