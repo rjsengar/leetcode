@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/rjsengar/leetcode/tree/master/0409-longest-palindrome) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/rjsengar/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [1044-find-common-characters](https://github.com/rjsengar/leetcode/tree/master/1044-find-common-characters) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/rjsengar/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/rjsengar/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Greedy
 |  |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-height-checker](https://github.com/rjsengar/leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/rjsengar/leetcode/tree/master/1217-relative-sort-array) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/rjsengar/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/rjsengar/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/rjsengar/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Dynamic Programming
 |  |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/rjsengar/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/rjsengar/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 # Depth-First Search
 |  |
 | ------- |
