@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/rjsengar/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/rjsengar/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rjsengar/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 # Prefix Sum
 |  |
 | ------- |
@@ -109,3 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/rjsengar/leetcode/tree/master/0633-sum-of-square-numbers) |
+# Bit Manipulation
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rjsengar/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
