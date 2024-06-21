@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/rjsengar/leetcode/tree/master/0409-longest-palindrome) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/rjsengar/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [1044-find-common-characters](https://github.com/rjsengar/leetcode/tree/master/1044-find-common-characters) |
+| [1274-number-of-days-between-two-dates](https://github.com/rjsengar/leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/rjsengar/leetcode/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/rjsengar/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/rjsengar/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/rjsengar/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/rjsengar/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1274-number-of-days-between-two-dates](https://github.com/rjsengar/leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rjsengar/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 # Prefix Sum
 |  |
