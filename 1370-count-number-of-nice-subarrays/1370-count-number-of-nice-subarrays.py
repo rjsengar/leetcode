@@ -29,9 +29,7 @@ class Solution:
                 s-=nums[j]
                 j+=1
             if s<k:
-                c2+=i-j+1
-                
+                c2+=(i-j+1)
             i+=1
         return c1-c2
-
         
