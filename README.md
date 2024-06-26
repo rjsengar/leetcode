@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1044-find-common-characters](https://github.com/rjsengar/leetcode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/rjsengar/leetcode/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rjsengar/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1848-sum-of-unique-elements](https://github.com/rjsengar/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2679-count-distinct-numbers-on-board](https://github.com/rjsengar/leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 # Array
 |  |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1217-relative-sort-array](https://github.com/rjsengar/leetcode/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rjsengar/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/rjsengar/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1848-sum-of-unique-elements](https://github.com/rjsengar/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/rjsengar/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/rjsengar/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2679-count-distinct-numbers-on-board](https://github.com/rjsengar/leetcode/tree/master/2679-count-distinct-numbers-on-board) |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0982-minimum-increment-to-make-array-unique](https://github.com/rjsengar/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/rjsengar/leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/rjsengar/leetcode/tree/master/1217-relative-sort-array) |
+| [1848-sum-of-unique-elements](https://github.com/rjsengar/leetcode/tree/master/1848-sum-of-unique-elements) |
 # Stack
 |  |
 | ------- |
