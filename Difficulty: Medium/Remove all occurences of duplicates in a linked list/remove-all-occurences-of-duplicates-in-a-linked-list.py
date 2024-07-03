@@ -12,22 +12,24 @@
 
 class Solution:
     def removeAllDuplicates(self, head):
-        d={}
+        h1=None
+        c1=None
         curr=head
         while(curr):
-            if curr.data not in d:
-                d[curr.data]=1
+            if curr.next and curr.data==curr.next.data:
+                while(curr.next and curr.data==curr.next.data):
+                    curr=curr.next
+            
             else:
-                d[curr.data]+=1
+                if h1 is None:
+                    h1=curr
+                    c1=curr
+                else:
+                    c1.next=curr
+                    c1=curr
             curr=curr.next
-        curr=head
-        h=c=Node(-1)
-        while(curr):
-            if d[curr.data]==1:
-                c.next=Node(curr.data)
-                c=c.next
-            curr=curr.next
-        return h.next
+        c1.next=curr
+        return h1
 
 
 #{ 
