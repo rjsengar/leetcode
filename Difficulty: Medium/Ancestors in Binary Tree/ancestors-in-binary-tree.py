@@ -89,22 +89,24 @@ class Node:
         self.right = None
 '''
 
-def tree(root,t,arr):
-    if root==None:
-        return False
-    if root.data==t:
-        return True
-    l=tree(root.left,t,arr)
-    r=tree(root.right,t,arr)
-    if l or r:
-        arr.append(root.data)
-    return l or r
+
 class Solution:
     def Ancestors(self, root, target):
-        
-        a=[]
-        tree(root,target,a)
-        return a
+        arr=[]
+        def tree(root):
+            if root==None:
+                return False
+            if root.data==target:
+                return True
+            l=tree(root.left)
+            # print(l)
+            r=tree(root.right)
+            # print(r,root.data)
+            if l or r:
+                arr.append(root.data)
+            return l or r
+        tree(root)
+        return arr
 
 
 #{ 
