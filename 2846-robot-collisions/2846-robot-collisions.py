@@ -17,9 +17,9 @@ class Solution:
         # healths.sort()
         positions.sort()
         
-        print(dire)
-        print(heal)
-        print(positions)
+        # print(dire)
+        # print(heal)
+        # print(positions)
         for i in range(len(positions)):
             if s and s[-1][2]=='R' and dire[positions[i]]=='L':
                 if s[-1][1]==heal[positions[i]]:
