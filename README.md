@@ -219,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rjsengar/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/rjsengar/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Queue
 |  |
 | ------- |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rjsengar/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/rjsengar/leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/rjsengar/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/rjsengar/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3468-find-the-encrypted-string](https://github.com/rjsengar/leetcode/tree/master/3468-find-the-encrypted-string) |
 ## Stack
 |  |
@@ -236,4 +238,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rjsengar/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/rjsengar/leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/rjsengar/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/rjsengar/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
