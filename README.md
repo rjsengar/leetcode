@@ -174,11 +174,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/rjsengar/leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/rjsengar/leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rjsengar/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/rjsengar/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/rjsengar/leetcode/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rjsengar/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/rjsengar/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -248,4 +250,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/rjsengar/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+## Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/rjsengar/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/rjsengar/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
