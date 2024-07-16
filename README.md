@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rjsengar/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/rjsengar/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/rjsengar/leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Linked List
 |  |
 | ------- |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/rjsengar/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/rjsengar/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3468-find-the-encrypted-string](https://github.com/rjsengar/leetcode/tree/master/3468-find-the-encrypted-string) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/rjsengar/leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Stack
 |  |
 | ------- |
