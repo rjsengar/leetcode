@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rjsengar/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rjsengar/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rjsengar/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/rjsengar/leetcode/tree/master/1293-three-consecutive-odds) |
@@ -282,4 +283,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/rjsengar/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/rjsengar/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rjsengar/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
