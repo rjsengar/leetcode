@@ -180,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rjsengar/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rjsengar/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/rjsengar/leetcode/tree/master/2846-robot-collisions) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/rjsengar/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rjsengar/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -287,4 +288,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rjsengar/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/rjsengar/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 <!---LeetCode Topics End-->
