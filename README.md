@@ -259,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rjsengar/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/rjsengar/leetcode/tree/master/1720-crawler-log-folder) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/rjsengar/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/rjsengar/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/rjsengar/leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2502-sort-the-people](https://github.com/rjsengar/leetcode/tree/master/2502-sort-the-people) |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rjsengar/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rjsengar/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/rjsengar/leetcode/tree/master/1720-crawler-log-folder) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/rjsengar/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/rjsengar/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/rjsengar/leetcode/tree/master/2846-robot-collisions) |
 ## Bit Manipulation
@@ -304,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rjsengar/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/rjsengar/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/rjsengar/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Divide and Conquer
 |  |
