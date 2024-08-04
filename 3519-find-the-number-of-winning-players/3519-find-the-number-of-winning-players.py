@@ -11,9 +11,13 @@ class Solution:
                 if d[i]:
                     c+=1
             else:
-                s=list(set(d[i]))
-                for j in s:
-                    if d[i].count(j)>i:
+                d2={}
+                for j in d[i]:
+                    if j not in d2:
+                        d2[j]=1
+                    else:
+                        d2[j]+=1
+                    if d2[j]>i:
                         c+=1
                         break
 
