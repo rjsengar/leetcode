@@ -201,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/rjsengar/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rjsengar/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/rjsengar/leetcode/tree/master/2502-sort-the-people) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rjsengar/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rjsengar/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rjsengar/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2502-sort-the-people](https://github.com/rjsengar/leetcode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/rjsengar/leetcode/tree/master/2846-robot-collisions) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rjsengar/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -234,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rjsengar/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/rjsengar/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/rjsengar/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rjsengar/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/rjsengar/leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Linked List
 |  |
@@ -277,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/rjsengar/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/rjsengar/leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/rjsengar/leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rjsengar/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/rjsengar/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3468-find-the-encrypted-string](https://github.com/rjsengar/leetcode/tree/master/3468-find-the-encrypted-string) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/rjsengar/leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
@@ -347,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0948-sort-an-array](https://github.com/rjsengar/leetcode/tree/master/0948-sort-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rjsengar/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rjsengar/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
