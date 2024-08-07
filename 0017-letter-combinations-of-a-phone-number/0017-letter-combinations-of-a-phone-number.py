@@ -24,27 +24,23 @@ class Solution:
                 d[9].append(s[i])
         l=[]
         l1=[]
-        for i in digits:
-            if i not in '*0#1' and i:
-                l+=d[int(i)]
         n=len(digits)
-        if n==1:
-            return d[int(digits[0])]
-        if n==2:
+        if n:
+            p=1
             for i in d[int(digits[0])]:
-                for j in d[int(digits[1])]:
-                    l1.append(i+j)
-        if n==3:
-            for i in d[int(digits[0])]:
-                for j in d[int(digits[1])]:
-                    for k in d[int(digits[2])]:
-                        l1.append(i+j+k)
-        if n==4:
-            for i in d[int(digits[0])]:
-                for j in d[int(digits[1])]:
-                    for k in d[int(digits[2])]:
-                        for t in d[int(digits[3])]:
-                            l1.append(i+j+k+t)
+                if p+1<=n:
+                    for j in d[int(digits[1])]:
+                        if p+2<=n:
+                            for k in d[int(digits[2])]:
+                                if p+3<=n:
+                                    for t in d[int(digits[3])]:
+                                        l1.append(i+j+k+t)
+                                else:
+                                    l1.append(i+j+k)
+                        else:
+                            l1.append(i+j)
+                else:
+                    l1.append(i)
         return l1
         
 
