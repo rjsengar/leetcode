@@ -7,28 +7,18 @@
 class Solution:
     def pathSum(self, root: Optional[TreeNode], targetSum: int) -> List[List[int]]:
         l=[]
-        def tree(root,s):
+        l2=[]
+        def tree(root,l):
             if root==None:
                 return
-            s+=str(root.val)+"#"
-            tree(root.left,s)
-            tree(root.right,s)
+            l.append(root.val)
+            tree(root.left,l)
+            tree(root.right,l)
             if root.left==None and root.right==None:
-                l.append(s)
-            s=s[:-1]
-        tree(root,"")
-        l2=[]
-        for i in l:
-            i=i.split('#')
-            i=i[:-1]
-            l1=[]
-            s1=0
-            # print(i)
-            for j in i:
-                s1+=int(j)
-                l1.append(int(j))
-            if s1==targetSum:
-                l2.append(l1)
+                if sum(l)==targetSum:
+                    l2.append(l[:])    
+            l.pop()
+        tree(root,l)
         return l2
 
         
