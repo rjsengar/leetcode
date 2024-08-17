@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rjsengar/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0498-diagonal-traverse](https://github.com/rjsengar/leetcode/tree/master/0498-diagonal-traverse) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rjsengar/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0624-maximum-distance-in-arrays](https://github.com/rjsengar/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0870-magic-squares-in-grid](https://github.com/rjsengar/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/rjsengar/leetcode/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/rjsengar/leetcode/tree/master/0948-sort-an-array) |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rjsengar/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rjsengar/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rjsengar/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0624-maximum-distance-in-arrays](https://github.com/rjsengar/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/rjsengar/leetcode/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rjsengar/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/rjsengar/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
