@@ -9,7 +9,7 @@ class Solution:
                     if i*j not in d:
                         d[i*j]=1
                         l.append(i*j)
-                if len(l)>=10*n:
+                if len(l)>=5*n:
                     break
         l.sort()
         return l[n-1]
