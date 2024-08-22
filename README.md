@@ -312,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0476-number-complement](https://github.com/rjsengar/leetcode/tree/master/0476-number-complement) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/rjsengar/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Tree
 |  |
