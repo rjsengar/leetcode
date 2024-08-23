@@ -2,15 +2,9 @@ class Solution:
     def myAtoi(self, s: str) -> int:
         s1=""
         c=0
-        s2='abcdefghijklmnopqrstuvwxyz'
-        d={}
         p=0
         k=0
         if s=="":
-            return 0
-        for i in s2:
-            d[i]=1
-        if s[0] in d:
             return 0
         for i in s:
             if i=='+' and k==0:
@@ -33,7 +27,6 @@ class Solution:
                 c+=1
             else:
                 break
-        # print(s1)
         if s1=="":
             return 0
         if c==1:
@@ -43,5 +36,3 @@ class Solution:
         if int(s1)>2**31-1:
             return 2**31-1
         return int(s1)
-        # return 0
-        # return int(s1)
