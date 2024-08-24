@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2846-robot-collisions](https://github.com/rjsengar/leetcode/tree/master/2846-robot-collisions) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/rjsengar/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rjsengar/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/rjsengar/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -398,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/rjsengar/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/rjsengar/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Backtracking
 |  |
 | ------- |
