@@ -307,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/rjsengar/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rjsengar/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/rjsengar/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rjsengar/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/rjsengar/leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rjsengar/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -326,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/rjsengar/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/rjsengar/leetcode/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rjsengar/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/rjsengar/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rjsengar/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rjsengar/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/rjsengar/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -349,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/rjsengar/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/rjsengar/leetcode/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rjsengar/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/rjsengar/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rjsengar/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/rjsengar/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Matrix
