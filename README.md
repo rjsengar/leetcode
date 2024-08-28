@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/rjsengar/leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/rjsengar/leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rjsengar/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2035-count-sub-islands](https://github.com/rjsengar/leetcode/tree/master/2035-count-sub-islands) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rjsengar/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/rjsengar/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rjsengar/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -356,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0776-n-ary-tree-postorder-traversal](https://github.com/rjsengar/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rjsengar/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/rjsengar/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2035-count-sub-islands](https://github.com/rjsengar/leetcode/tree/master/2035-count-sub-islands) |
 ## Matrix
 |  |
 | ------- |
@@ -363,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/rjsengar/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/rjsengar/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/rjsengar/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2035-count-sub-islands](https://github.com/rjsengar/leetcode/tree/master/2035-count-sub-islands) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -422,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0100-same-tree](https://github.com/rjsengar/leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/rjsengar/leetcode/tree/master/0112-path-sum) |
+| [2035-count-sub-islands](https://github.com/rjsengar/leetcode/tree/master/2035-count-sub-islands) |
 ## Design
 |  |
 | ------- |
@@ -443,4 +447,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/rjsengar/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Union Find
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/rjsengar/leetcode/tree/master/2035-count-sub-islands) |
 <!---LeetCode Topics End-->
