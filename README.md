@@ -275,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/rjsengar/leetcode/tree/master/0264-ugly-number-ii) |
+| [0564-find-the-closest-palindrome](https://github.com/rjsengar/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0870-magic-squares-in-grid](https://github.com/rjsengar/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/rjsengar/leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rjsengar/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -293,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/rjsengar/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rjsengar/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0564-find-the-closest-palindrome](https://github.com/rjsengar/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rjsengar/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/rjsengar/leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rjsengar/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
