@@ -4,13 +4,28 @@ import sys
 class Solution:
     def largestPalindrome(self, n: int, k: int) -> str:
         sys.set_int_max_str_digits(1000000)
+        
         if k==3 or k==9 or k==1:
             return n*'9'
+
         if k==2:
             if n<=1:
                 return '8'*n
             else:
                 return '8'+'9'*(n-2)+'8'
+
+        if k==4:
+            if n<=4:
+                return '8'*n
+            else:
+                return '88'+('9'*(n-4))+'88'
+
+        if k==5:
+            if n<=2:
+                return n*'5'
+            else:
+                return '5'+(n-2)*'9'+'5'
+
         if k==6:
             if n<=2:
                 return '6'*n
@@ -31,18 +46,7 @@ class Solution:
                             s1[n//2]=str(9-k)
                             s1[(n//2)-1]=str(9-k)
                 return "".join(s1)
-        if k==8:
-            if n<=6:
-                return '8'*n
-            else:
-                return '888'+('9'*(n-6))+'888' 
-             
-                
-        if k==5:
-            if n<=2:
-                return n*'5'
-            else:
-                return '5'+(n-2)*'9'+'5'
+        
         if k==7:
             if n<=2:
                 return '7'*n
@@ -65,17 +69,10 @@ class Solution:
                     if int("".join(p))%k==0:
                         return "".join(p)
 
-
-            # while(True):
-            #     if x%7==0 and p==p[::-1]:
-            #         return p
-            #     x=x-(int(p[-1]))*2
-            #     p=str(x)
-        if k==4:
-            if n<=4:
+        if k==8:
+            if n<=6:
                 return '8'*n
             else:
-                return '88'+('9'*(n-4))+'88'
-
-        return '1'
+                return '888'+('9'*(n-6))+'888' 
+             
         
