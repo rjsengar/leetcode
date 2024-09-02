@@ -3,10 +3,6 @@ class Solution:
         i=0
         s=sum(chalk)
         k=k%s
-        # if k>s:
-        #     while(k>s):
-        #         k-=s
-        
         n=len(chalk)
         while(k>0):
             if (k-chalk[i])<0:
