@@ -12,12 +12,12 @@ class Solution:
             dp.append(l1)
         for i in range(1,n):
             for j in range(n):
-                m=10000000
+                m=float('inf')
                 for k in range(n):
                     if k!=j:
                         m=min(m,dp[i-1][k]+grid[i][j])
                 dp[i][j]=m
-        m1=100000
+        m1=float('inf')
         for i in range(n):
             m1=min(m1,dp[n-1][i])
         return m1
