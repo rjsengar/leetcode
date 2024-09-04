@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0718-maximum-length-of-repeated-subarray](https://github.com/rjsengar/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0870-magic-squares-in-grid](https://github.com/rjsengar/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/rjsengar/leetcode/tree/master/0890-lemonade-change) |
+| [0906-walking-robot-simulation](https://github.com/rjsengar/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0948-sort-an-array](https://github.com/rjsengar/leetcode/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/rjsengar/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rjsengar/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/rjsengar/leetcode/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rjsengar/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0870-magic-squares-in-grid](https://github.com/rjsengar/leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0906-walking-robot-simulation](https://github.com/rjsengar/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rjsengar/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rjsengar/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rjsengar/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/rjsengar/leetcode/tree/master/0498-diagonal-traverse) |
+| [0906-walking-robot-simulation](https://github.com/rjsengar/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/rjsengar/leetcode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/rjsengar/leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rjsengar/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
