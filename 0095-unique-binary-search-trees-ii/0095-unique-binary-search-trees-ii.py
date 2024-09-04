@@ -4,7 +4,6 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-from itertools import permutations
 class Solution:
     def generateTrees(self, n: int) -> List[Optional[TreeNode]]:
         l=[]
@@ -46,9 +45,12 @@ class Solution:
                         if n.right:
                             q.append(n.right)
                         le-=1
-                if an not in l3:
+                s5=""
+                for p in an:
+                    s5+=str(p)
+                if s5 not in l3:
                     l1.append(h)
-                    l3.append(an)
+                    l3.append(s5)
             else: 
                 for i in range(l, r): 
                     a[l], a[i] = a[i], a[l] 
