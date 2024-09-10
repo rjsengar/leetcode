@@ -256,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rjsengar/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0397-integer-replacement](https://github.com/rjsengar/leetcode/tree/master/0397-integer-replacement) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rjsengar/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rjsengar/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0624-maximum-distance-in-arrays](https://github.com/rjsengar/leetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -353,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/rjsengar/leetcode/tree/master/0397-integer-replacement) |
 | [0476-number-complement](https://github.com/rjsengar/leetcode/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/rjsengar/leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/rjsengar/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -415,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rjsengar/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0264-ugly-number-ii](https://github.com/rjsengar/leetcode/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/rjsengar/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0397-integer-replacement](https://github.com/rjsengar/leetcode/tree/master/0397-integer-replacement) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/rjsengar/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/rjsengar/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/rjsengar/leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
@@ -506,4 +509,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rjsengar/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/rjsengar/leetcode/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
