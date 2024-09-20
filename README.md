@@ -328,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/rjsengar/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rjsengar/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0214-shortest-palindrome](https://github.com/rjsengar/leetcode/tree/master/0214-shortest-palindrome) |
 | [0564-find-the-closest-palindrome](https://github.com/rjsengar/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rjsengar/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rjsengar/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -502,10 +503,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/rjsengar/leetcode/tree/master/0214-shortest-palindrome) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/rjsengar/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/rjsengar/leetcode/tree/master/0214-shortest-palindrome) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/rjsengar/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Union Find
 |  |
@@ -529,4 +532,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rjsengar/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/rjsengar/leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
