@@ -213,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/rjsengar/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rjsengar/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/rjsengar/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/rjsengar/leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/rjsengar/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rjsengar/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rjsengar/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/rjsengar/leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -429,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-count-sub-islands](https://github.com/rjsengar/leetcode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rjsengar/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/rjsengar/leetcode/tree/master/2411-spiral-matrix-iv) |
+| [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/rjsengar/leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Dynamic Programming
 |  |
 | ------- |
