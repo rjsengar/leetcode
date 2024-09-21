@@ -210,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rjsengar/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2727-number-of-senior-citizens](https://github.com/rjsengar/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/rjsengar/leetcode/tree/master/2846-robot-collisions) |
+| [3463-alternating-groups-i](https://github.com/rjsengar/leetcode/tree/master/3463-alternating-groups-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/rjsengar/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rjsengar/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/rjsengar/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -486,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/rjsengar/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/rjsengar/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [3463-alternating-groups-i](https://github.com/rjsengar/leetcode/tree/master/3463-alternating-groups-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/rjsengar/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Backtracking
 |  |
