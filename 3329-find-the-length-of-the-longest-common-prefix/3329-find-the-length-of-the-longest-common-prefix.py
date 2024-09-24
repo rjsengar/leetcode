@@ -11,17 +11,6 @@ class Solution:
             for j in range(1,len(x)+1):
                 if x[:j] in d:
                     m=max(m,len(x[:j]))
-            # for
-            # l1=len(x)
-            # for j in range(len(arr2)):
-            #     y=str(arr2[j])
-            #     l2=len(y)
-            #     if l1>l2:
-            #         if x[:l2]==y:
-            #             m=max(m,l2)
-            #     elif l2>=l1:
-            #         if y[:l1]==x:
-            #             m=max(m,l1)
         return m
 
                     
