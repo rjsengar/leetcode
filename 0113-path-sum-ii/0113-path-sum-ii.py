@@ -6,6 +6,7 @@
 #         self.right = right
 class Solution:
     def pathSum(self, root: Optional[TreeNode], targetSum: int) -> List[List[int]]:
+        l=[]
         l2=[]
         def tree(root,l):
             if root==None:
@@ -17,7 +18,7 @@ class Solution:
                 if sum(l)==targetSum:
                     l2.append(l[:])    
             l.pop()
-        tree(root,[])
+        tree(root,l)
         return l2
 
         
