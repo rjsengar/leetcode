@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0967-minimum-falling-path-sum](https://github.com/rjsengar/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rjsengar/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/rjsengar/leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1256-rank-transform-of-an-array](https://github.com/rjsengar/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/rjsengar/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/rjsengar/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1435-xor-queries-of-a-subarray](https://github.com/rjsengar/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -230,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0906-walking-robot-simulation](https://github.com/rjsengar/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rjsengar/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rjsengar/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1256-rank-transform-of-an-array](https://github.com/rjsengar/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rjsengar/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rjsengar/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rjsengar/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -262,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rjsengar/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rjsengar/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0948-sort-an-array](https://github.com/rjsengar/leetcode/tree/master/0948-sort-an-array) |
+| [1256-rank-transform-of-an-array](https://github.com/rjsengar/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/rjsengar/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rjsengar/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rjsengar/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
