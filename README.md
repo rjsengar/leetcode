@@ -324,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2645-pass-the-pillow](https://github.com/rjsengar/leetcode/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/rjsengar/leetcode/tree/master/2846-robot-collisions) |
 | [3540-hash-divided-string](https://github.com/rjsengar/leetcode/tree/master/3540-hash-divided-string) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/rjsengar/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Math
 |  |
 | ------- |
@@ -338,11 +339,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/rjsengar/leetcode/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/rjsengar/leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3568-find-the-key-of-the-numbers](https://github.com/rjsengar/leetcode/tree/master/3568-find-the-key-of-the-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/rjsengar/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rjsengar/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/rjsengar/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/rjsengar/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
 |  |
 | ------- |
@@ -398,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/rjsengar/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rjsengar/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/rjsengar/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/rjsengar/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Tree
 |  |
 | ------- |
