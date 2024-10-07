@@ -12,7 +12,7 @@ class Solution:
                 dp[i][j]= min(solve(i+1,j,dp),solve(i,j-1,dp))+1
                 return dp[i][j]
         dp=[[-1 for j in range(len(s))] for i in range(len(s))]
-        print(dp)
+        # print(dp)
 
         return solve(0,len(s)-1,dp)
         
