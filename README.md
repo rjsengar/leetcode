@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3463-alternating-groups-i](https://github.com/rjsengar/leetcode/tree/master/3463-alternating-groups-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/rjsengar/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rjsengar/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3510-maximize-the-total-height-of-unique-towers](https://github.com/rjsengar/leetcode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/rjsengar/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/rjsengar/leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Hash Table
@@ -280,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rjsengar/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2846-robot-collisions](https://github.com/rjsengar/leetcode/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rjsengar/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3510-maximize-the-total-height-of-unique-towers](https://github.com/rjsengar/leetcode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 ## Greedy
 |  |
 | ------- |
@@ -296,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rjsengar/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rjsengar/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/rjsengar/leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
+| [3510-maximize-the-total-height-of-unique-towers](https://github.com/rjsengar/leetcode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/rjsengar/leetcode/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 ## Linked List
 |  |
