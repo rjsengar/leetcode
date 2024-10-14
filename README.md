@@ -337,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/rjsengar/leetcode/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/rjsengar/leetcode/tree/master/0279-perfect-squares) |
 | [0564-find-the-closest-palindrome](https://github.com/rjsengar/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0870-magic-squares-in-grid](https://github.com/rjsengar/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/rjsengar/leetcode/tree/master/1642-water-bottles) |
@@ -485,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rjsengar/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/rjsengar/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/rjsengar/leetcode/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/rjsengar/leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/rjsengar/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0397-integer-replacement](https://github.com/rjsengar/leetcode/tree/master/0397-integer-replacement) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/rjsengar/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -549,6 +551,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0100-same-tree](https://github.com/rjsengar/leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/rjsengar/leetcode/tree/master/0112-path-sum) |
+| [0279-perfect-squares](https://github.com/rjsengar/leetcode/tree/master/0279-perfect-squares) |
 | [1484-linked-list-in-binary-tree](https://github.com/rjsengar/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/rjsengar/leetcode/tree/master/2035-count-sub-islands) |
 ## Design
