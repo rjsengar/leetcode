@@ -7,20 +7,16 @@ class Solution:
         m=10000000
         l=[]
         l1=[]
-        s=0
-        t=0
-        d1={}
+        s,t=0,0
         for i in nums:
             s+=i
             t+=1
-            d1[s]=t
             if s>x:
                 break
             if s==x:
                 m=min(m,t)
             l.append(s)
-        s=0
-        t=0
+        s,t=0,0
         d={}
         for i in range(len(nums)-1,-1,-1):
             s+=nums[i]
