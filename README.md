@@ -443,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0538-convert-bst-to-greater-tree](https://github.com/rjsengar/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/rjsengar/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rjsengar/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0988-flip-equivalent-binary-trees](https://github.com/rjsengar/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rjsengar/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/rjsengar/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/rjsengar/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -460,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rjsengar/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/rjsengar/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rjsengar/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0988-flip-equivalent-binary-trees](https://github.com/rjsengar/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rjsengar/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/rjsengar/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/rjsengar/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -477,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0386-lexicographical-numbers](https://github.com/rjsengar/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0538-convert-bst-to-greater-tree](https://github.com/rjsengar/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/rjsengar/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0988-flip-equivalent-binary-trees](https://github.com/rjsengar/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rjsengar/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/rjsengar/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/rjsengar/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
