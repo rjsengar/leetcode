@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/rjsengar/leetcode/tree/master/1720-crawler-log-folder) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/rjsengar/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1803-average-waiting-time](https://github.com/rjsengar/leetcode/tree/master/1803-average-waiting-time) |
+| [1940-maximum-xor-for-each-query](https://github.com/rjsengar/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rjsengar/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rjsengar/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/rjsengar/leetcode/tree/master/2035-count-sub-islands) |
@@ -434,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0476-number-complement](https://github.com/rjsengar/leetcode/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/rjsengar/leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [1435-xor-queries-of-a-subarray](https://github.com/rjsengar/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1940-maximum-xor-for-each-query](https://github.com/rjsengar/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rjsengar/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/rjsengar/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/rjsengar/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -635,6 +637,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/rjsengar/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/rjsengar/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1940-maximum-xor-for-each-query](https://github.com/rjsengar/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rjsengar/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Memoization
 |  |
