@@ -221,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/rjsengar/leetcode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rjsengar/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rjsengar/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2716-prime-subtraction-operation](https://github.com/rjsengar/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/rjsengar/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/rjsengar/leetcode/tree/master/2846-robot-collisions) |
 | [3291-find-if-array-can-be-sorted](https://github.com/rjsengar/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -277,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rjsengar/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/rjsengar/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rjsengar/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2716-prime-subtraction-operation](https://github.com/rjsengar/leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Sorting
 |  |
 | ------- |
@@ -313,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/rjsengar/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/rjsengar/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rjsengar/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2716-prime-subtraction-operation](https://github.com/rjsengar/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/rjsengar/leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rjsengar/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/rjsengar/leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
@@ -360,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rjsengar/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/rjsengar/leetcode/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/rjsengar/leetcode/tree/master/2645-pass-the-pillow) |
+| [2716-prime-subtraction-operation](https://github.com/rjsengar/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/rjsengar/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/rjsengar/leetcode/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/rjsengar/leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -630,6 +634,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [2716-prime-subtraction-operation](https://github.com/rjsengar/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/rjsengar/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/rjsengar/leetcode/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 ## Prefix Sum
