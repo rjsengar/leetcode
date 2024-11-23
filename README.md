@@ -236,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/rjsengar/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/rjsengar/leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/rjsengar/leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/rjsengar/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -359,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2846-robot-collisions](https://github.com/rjsengar/leetcode/tree/master/2846-robot-collisions) |
 | [3540-hash-divided-string](https://github.com/rjsengar/leetcode/tree/master/3540-hash-divided-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rjsengar/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/rjsengar/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Math
 |  |
 | ------- |
@@ -654,6 +656,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/rjsengar/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1940-maximum-xor-for-each-query](https://github.com/rjsengar/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rjsengar/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/rjsengar/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Memoization
 |  |
 | ------- |
