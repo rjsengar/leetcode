@@ -211,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1972-rotating-the-box](https://github.com/rjsengar/leetcode/tree/master/1972-rotating-the-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rjsengar/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/rjsengar/leetcode/tree/master/2035-count-sub-islands) |
+| [2089-maximum-matrix-sum](https://github.com/rjsengar/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rjsengar/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/rjsengar/leetcode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rjsengar/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -322,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rjsengar/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/rjsengar/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/rjsengar/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2089-maximum-matrix-sum](https://github.com/rjsengar/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rjsengar/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2716-prime-subtraction-operation](https://github.com/rjsengar/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/rjsengar/leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -524,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/rjsengar/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1972-rotating-the-box](https://github.com/rjsengar/leetcode/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/rjsengar/leetcode/tree/master/2035-count-sub-islands) |
+| [2089-maximum-matrix-sum](https://github.com/rjsengar/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rjsengar/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/rjsengar/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/rjsengar/leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
