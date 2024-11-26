@@ -692,4 +692,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rjsengar/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/rjsengar/leetcode/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
