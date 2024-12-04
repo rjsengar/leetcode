@@ -238,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/rjsengar/leetcode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/rjsengar/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/rjsengar/leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/rjsengar/leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/rjsengar/leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/rjsengar/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Hash Table
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/rjsengar/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rjsengar/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/rjsengar/leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/rjsengar/leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -594,6 +596,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/rjsengar/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/rjsengar/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rjsengar/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/rjsengar/leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -706,6 +709,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rjsengar/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/rjsengar/leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/rjsengar/leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Graph
 |  |
