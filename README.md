@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/rjsengar/leetcode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/rjsengar/leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rjsengar/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rjsengar/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/rjsengar/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -467,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/rjsengar/leetcode/tree/master/0078-subsets) |
 | [0397-integer-replacement](https://github.com/rjsengar/leetcode/tree/master/0397-integer-replacement) |
 | [0476-number-complement](https://github.com/rjsengar/leetcode/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/rjsengar/leetcode/tree/master/1054-complement-of-base-10-integer) |
@@ -623,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rjsengar/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/rjsengar/leetcode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/rjsengar/leetcode/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/rjsengar/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/rjsengar/leetcode/tree/master/0113-path-sum-ii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rjsengar/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
