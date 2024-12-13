@@ -726,4 +726,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3189-find-champion-ii](https://github.com/rjsengar/leetcode/tree/master/3189-find-champion-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/rjsengar/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
