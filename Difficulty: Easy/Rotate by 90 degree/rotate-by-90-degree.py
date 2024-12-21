@@ -4,23 +4,24 @@
 class Solution:
     
     #Function to rotate matrix anticlockwise by 90 degrees.
-    def rotateby90(self, mat): 
-        arr=[]
+    def rotateby90(self, mat):
         n=len(mat)
-        a=mat[:]
+        # print(n)
+        vis=[]
         for i in range(n):
             l=[]
             for j in range(n):
                 l.append(0)
-            arr.append(l)
+            vis.append(l)
+        # print(vis)
         for i in range(n):
             for j in range(n):
-                arr[i][j]=a[j][i]
-        arr=arr[::-1]
+                vis[i][j]=mat[j][i]
+        # print(vis)
+        vis=vis[::-1]
         for i in range(n):
             for j in range(n):
-                a[i][j]=arr[i][j]
-
+                mat[i][j]=vis[i][j]
 
 #{ 
  # Driver Code Starts
