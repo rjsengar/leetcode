@@ -417,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/rjsengar/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rjsengar/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/rjsengar/leetcode/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/rjsengar/leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/rjsengar/leetcode/tree/master/0214-shortest-palindrome) |
 | [0564-find-the-closest-palindrome](https://github.com/rjsengar/leetcode/tree/master/0564-find-the-closest-palindrome) |
@@ -455,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rjsengar/leetcode/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rjsengar/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rjsengar/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/rjsengar/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
