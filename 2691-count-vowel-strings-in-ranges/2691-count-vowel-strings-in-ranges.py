@@ -1,18 +1,23 @@
 class Solution:
     def vowelStrings(self, words: List[str], queries: List[List[int]]) -> List[int]:
-        c=0
-        l=[]
+        s1='aeiou'
         l1=[]
+        l2=[]
+        l=[]
         for i in words:
-            if i[0] in 'aeiou' and i[-1] in 'aeiou':
+            if i[0] in s1 and i[-1] in s1:
                 l1.append(1)
             else:
                 l1.append(0)
-        l2=[0]*(len(l1)+1)
-        l2[0]=l1[0]
-        for i in range(len(words)):
-            l2[i+1] = l2[i]+l1[i]
-        for x,y in queries:
-            l.append(l2[y+1]-l2[x])
-        return l
+        # print(l1)
+        s=0
+        for i in l1:
+            s+=i
+            l.append(s)
+        for i in queries:
+            if i[0]!=0:
+                l2.append(l[i[1]]-l[i[0]-1])
+            else:
+                l2.append(l[i[1]])
+        return l2
         
