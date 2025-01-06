@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1755-defuse-the-bomb](https://github.com/rjsengar/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/rjsengar/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1803-average-waiting-time](https://github.com/rjsengar/leetcode/tree/master/1803-average-waiting-time) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rjsengar/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/rjsengar/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rjsengar/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1972-rotating-the-box](https://github.com/rjsengar/leetcode/tree/master/1972-rotating-the-box) |
@@ -440,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/rjsengar/leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rjsengar/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/rjsengar/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rjsengar/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/rjsengar/leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/rjsengar/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rjsengar/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -708,6 +710,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/rjsengar/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/rjsengar/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rjsengar/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/rjsengar/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rjsengar/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2358-number-of-ways-to-split-array](https://github.com/rjsengar/leetcode/tree/master/2358-number-of-ways-to-split-array) |
